@@ -1,0 +1,47 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/borja/Documents/NetBeansProjects/EntradaBlogBorjaVidal/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/borja/Documents/NetBeansProjects/EntradaBlogBorjaVidal/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EntradaBlogBorjaVidal 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'EntradaBlogBorjaVidal 1.0-SNAPSHOT API'
+'C:/Users/borja/Documents/NetBeansProjects/EntradaBlogBorjaVidal/src/main/java/EntradaBlogBorjaVidal.java'
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\src\main\java\EntradaBlogBorjaVidal.java = 1676485269293
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\src\main\java = 1676061127197
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\allclasses-index.html = 1676485294711
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\allpackages-index.html = 1676485294713
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\element-list = 1676485294679
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\EntradaBlogBorjaVidal.html = 1676485294678
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\help-doc.html = 1676485294732
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\index-all.html = 1676485294725
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\index.html = 1676485294726
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\jquery-ui.overrides.css = 1676485294757
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\member-search-index.js = 1676485294717
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\module-search-index.js = 1676485294715
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\overview-tree.html = 1676485294703
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\package-search-index.js = 1676485294716
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\package-summary.html = 1676485294688
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\package-tree.html = 1676485294691
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\package-use.html = 1676485294701
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\script.js = 1676485294736
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\search.js = 1676485294738
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\stylesheet.css = 1676485294735
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\tag-search-index.js = 1676485294718
+C:\Users\borja\Documents\NetBeansProjects\EntradaBlogBorjaVidal\target\site\apidocs\type-search-index.js = 1676485294716
